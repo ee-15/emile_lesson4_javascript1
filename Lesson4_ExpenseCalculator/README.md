@@ -13,8 +13,7 @@ Web Application Development
 (In thisassignment we had to get an expense calculator to to return the dollar amount of our expenses into percentages.  )
 
 ### View Project:
-(Replace this statement with your GitHub Page URL that was created when you 
- published the project.)
+(https://github.com/ee-15/emile_lesson4_javascript1.git)
 
 ### Lessons Learned in the Assignment:
 1. (The getElementById() method creates a space the HTML page wher the results will show up.)
